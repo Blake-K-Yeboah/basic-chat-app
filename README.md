@@ -9,4 +9,9 @@ As it uses socket.io, when you send a message it automatically gets added on to 
 
 There is also a clear messages button that eletes all messages.
 
+
+### Design
+
 The ui is built with MaterializeCSS.
+
+![User Interface](./screenshot.png)
