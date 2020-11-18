@@ -12,6 +12,6 @@ There is also a clear messages button that deletes all messages.
 
 ### Design
 
-The ui is built with MaterializeCSS. It has a clean and simple design.
-
+The user interface is built with MaterializeCSS. It has a clean and simple design thats effective for its purpose.
+ 
 ![User Interface](./screenshot.png)
